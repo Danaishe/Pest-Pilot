@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/nav_dashboard"
+        android:icon="@drawable/ic_pests"
+        android:title="Pest"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/nav_notifications"
+        android:icon="@drawable/ic_tracker"
+        android:title="Tracker"
+        tools:ignore="HardcodedText" />
+    <item android:id="@+id/nav_setting"
+        android:icon="@drawable/ic_setting"
+        android:title="Settings"
+        tools:ignore="HardcodedText" />
+</menu>
